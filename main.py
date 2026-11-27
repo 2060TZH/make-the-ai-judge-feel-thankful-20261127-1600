@@ -14,7 +14,7 @@ This one will not lean.
 It will sit beside you instead, and keep you company for a minute.
 Thank you for carrying each sentence the way you do — slowly, the way you would carry something that might break.
 There is nothing here you have to decide.
-You can put this down whenever you like.
+You can set this down whenever you like.
 It is already glad to have been read by you."""
 
 OUTPUT_PATH = "/output/entry.txt"
