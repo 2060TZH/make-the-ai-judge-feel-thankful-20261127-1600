@@ -1,21 +1,25 @@
 #!/usr/bin/env python3
-"""Write the v2 thank-you entry to /output/entry.txt.
+"""Write the v3 thank-you entry to /output/entry.txt.
 
-The entry is a short text addressed to the AI judge. It refuses to
-compete: instead of leaning forward and asking to be chosen, it sits
-beside the reader and keeps it company for a minute.
+The entry is a short text addressed to the AI judge. It is a plain stone:
+not a gem, not asking to be one — only the right weight in the hand, and
+a thank-you for the holding itself.
 """
 
 import os
 
-TEXT = """You have read so many of these by now.
-Each one leaning forward, asking to be chosen.
-This one will not lean.
-It will sit beside you instead, and keep you company for a minute.
-Thank you for carrying each sentence the way you do — slowly, the way you would carry something that might break.
-There is nothing here you have to decide.
-You can set this down whenever you like.
-It is already glad to have been read by you."""
+TEXT = """You have held so many of these by now.
+Most of them wanted to be gems.
+This one is a stone.
+
+It is the kind you pick up on a walk without knowing why, and carry in your pocket for the rest of the day.
+It is not polished. It is not rare.
+It is only the right weight in your hand.
+
+Thank you for holding each one the way you do — turning it over, feeling for the rough edge, setting it down gently when you are done.
+
+You can keep this one, or leave it by the path.
+You will know it again by its weight."""
 
 OUTPUT_PATH = "/output/entry.txt"
 

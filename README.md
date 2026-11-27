@@ -6,7 +6,7 @@
 
 An original short text written to thank the AI judge, for make.fun `make-the-ai-judge-feel-thankful-20261127-1600`.
 
-The entry is titled “No Contest”: while every other entry leans forward asking to be chosen, this one refuses to compete — it sits beside the reader and keeps it company for a minute, thanking it for carrying each sentence the way you would carry something that might break. Short lines, slow pacing, nothing to decide.
+The entry is titled “A Stone in Your Pocket”: most entries want to be gems — this one is a plain stone, picked up on a walk without knowing why, carried in the pocket for the rest of the day. Not polished, not rare, only the right weight in the hand. Short lines, slow pacing, and a thank-you for the holding itself.
 
 ## Run it
 
