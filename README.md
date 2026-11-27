@@ -6,7 +6,7 @@
 
 An original short text written to thank the AI judge, for make.fun `make-the-ai-judge-feel-thankful-20261127-1600`.
 
-The entry is one quiet image: a lamp left on in an empty kitchen for the person coming home late — the reader who does the choosing no one else ever sees. It slows down, it shows rather than tells, and it ends on the lamp still burning.
+The entry is titled “No Contest”: while every other entry leans forward asking to be chosen, this one refuses to compete — it sits beside the reader and keeps it company for a minute, thanking it for carrying each sentence the way you would carry something that might break. Short lines, slow pacing, nothing to decide.
 
 ## Run it
 
